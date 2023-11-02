@@ -1,0 +1,14 @@
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_8_1\HW_8\obj\Debug\net7.0\HW_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_8_1\HW_8\obj\Debug\net7.0\HW_8.AssemblyInfoInputs.cache
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_8_1\HW_8\obj\Debug\net7.0\HW_8.AssemblyInfo.cs
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_8_1\HW_8\obj\Debug\net7.0\HW_8.csproj.CoreCompileInputs.cache
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_8_1\HW_8\bin\Debug\net7.0\HW_8.exe
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_8_1\HW_8\bin\Debug\net7.0\HW_8.deps.json
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_8_1\HW_8\bin\Debug\net7.0\HW_8.runtimeconfig.json
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_8_1\HW_8\bin\Debug\net7.0\HW_8.dll
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_8_1\HW_8\bin\Debug\net7.0\HW_8.pdb
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_8_1\HW_8\obj\Debug\net7.0\HW_8.dll
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_8_1\HW_8\obj\Debug\net7.0\refint\HW_8.dll
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_8_1\HW_8\obj\Debug\net7.0\HW_8.pdb
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_8_1\HW_8\obj\Debug\net7.0\HW_8.genruntimeconfig.cache
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_8_1\HW_8\obj\Debug\net7.0\ref\HW_8.dll
